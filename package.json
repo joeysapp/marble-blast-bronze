@@ -1,0 +1,23 @@
+{
+  "name": "marble-blast-bronze",
+  "version": "0.0.1",
+  "description": "web app of marble blast gold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeysapp/marble-blast-bronze.git"
+  },
+  "author": "Joey Sapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeysapp/marble-blast-bronze/issues"
+  },
+  "homepage": "https://github.com/joeysapp/marble-blast-bronze#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
