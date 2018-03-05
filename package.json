@@ -18,6 +18,7 @@
   "homepage": "https://github.com/joeysapp/marble-blast-bronze#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "socket.io": "^2.0.4"
+    "socket.io": "^2.0.4",
+    "useragent": "^2.3.0"
   }
 }
